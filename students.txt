@@ -1,0 +1,10 @@
+5040|Harvey|Conant|33|32|35|27|40
+5054|Thraves|Lucilia|12|28|31|37|27
+5236|Mew|Sylvia|35|16|25|14|38
+5385|Marsay|Gnni|5|28|24|16|37
+5459|Close|Alva|25|19|37|18|36
+5557|Chebeyshev|Ada|34|27|34|19|32
+5640|Milani|Drona|32|18|14|21|36
+5711|Sandhu|Amisha|33|19|27|22|35
+5875|Mikolashivlli|Demetra|12|15|16|7|36
+5904|Drane|Benjy|39|38|37|24|40
